@@ -1,0 +1,17 @@
+[
+    {
+    "name": "slim-ruimtelijk-plannen-ap",
+    "type": "ap",
+    "eap": "OSLO-Slim-Ruimtelijk-Plannen.eap",
+    "diagram": "OSLO-Slim-Ruimtelijk-Plannen-AP",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+    "publication-date": "2023-10-20",
+    "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "TODO",
+    "site": "site-skeleton/slim-ruimtelijk-plannen-ap",
+    "feedbackurl": "https://https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/issues",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html",
+    "toolchainversion" : "3"
+  }
+]

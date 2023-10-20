@@ -10,7 +10,7 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "TODO",
     "site": "site-skeleton/slim-ruimtelijk-plannen-ap",
-    "feedbackurl": "https://https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/issues",
+    "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/issues",
     "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html",
     "toolchainversion" : "3"
   }

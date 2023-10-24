@@ -1,2 +1,1 @@
-Provide a description for this standardization trajectory. 
-This text will be shown on the OSLO standards registry.
+Het doel van dit traject is om de structuur van data omtrent Slim Ruimtelijk Plannen te standaardiseren in samenspraak met alle belanghebbenden. Om zo datastromen semantisch te verrijken, om data met betrekking tot de ruimtelijke indicatoren beter vindbaar en begrijpbaar te maken en om deze data beter combineerbaar te maken met andere databronnen. Zo kan men permanent inzicht verkrijgen in het ruimtegrebruik en de ruimtelijke structuur van een buurt.

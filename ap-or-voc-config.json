@@ -24,12 +24,20 @@
     {
       "naam": "Verslag Business werkgroep SRP 2023-09-27",
       "waarde": "Verslag Business werkgroep SRP 2023-09-27.pdf"
+    },
+    {
+      "naam": "Verslag 1e thematische werkgroep SRP 2023-09-25",
+      "waarde": "Verslag 1e thematische werkgroep SRP 2023-09-25.pdf"
     }
   ],
   "presentaties": [
     {
       "naam": "Business Werkgroep presentatie Slim Ruimtelijk Plannen",
       "waarde": "Business Werkgroep presentatie Slim Ruimtelijk Plannen.pdf"
+    },
+     {
+      "naam": "Eerste Thematische Werkgroep presentatie Slim Ruimtelijk Plannen",
+      "waarde": "Eerste Thematische Werkgroep presentatie Slim Ruimtelijk Plannen.pdf"
     }
   ],
   "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Slim Ruimtelijk Plannen",

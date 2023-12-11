@@ -7,12 +7,12 @@
         "template": "OSLO-Slim-Ruimtelijk-Plannen-AP.j2",
         "title": "Slim Ruimtelijk Plannen - Applicatieprofiel",
         "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
-        "publication-date": "2023-10-20",
+        "publication-date": "2023-12-12",
         "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
         "contributors-file": "stakeholders.csv",
         "contributors-column": "MijnKolom",
         "site": "site-skeleton/slim-ruimtelijk-plannen-ap",
         "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/issues",
-        "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html"
+        "standaardregisterurl": "https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-slim-ruimtelijk-plannen.html"
     }
 ]

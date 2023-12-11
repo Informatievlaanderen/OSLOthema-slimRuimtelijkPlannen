@@ -22,22 +22,30 @@
   ],
   "verslagen": [
     {
-      "naam": "Verslag Business werkgroep SRP 2023-09-27",
+      "naam": "Verslag Business werkgroep - OSLO Slim Ruimtelijk Plannen 27 september 2023",
       "waarde": "Verslag Business werkgroep SRP 2023-09-27.pdf"
     },
     {
-      "naam": "Verslag 1e thematische werkgroep SRP 2023-09-25",
+      "naam": "Verslag thematische werkgroep 1 - OSLO Slim Ruimtelijk Plannen 25 oktober 2023",
       "waarde": "Verslag 1e thematische werkgroep SRP 2023-09-25.pdf"
+    },
+   {
+      "naam": "Verslag thematische werkgroep 2 - OSLO Slim Ruimtelijk Plannen 30 november 2023",
+      "waarde": "Verslag thematische werkgroep 2 - OSLO Slim Ruimtelijk Plannen 30 november 2023.docx"
     }
   ],
   "presentaties": [
     {
-      "naam": "Business Werkgroep presentatie Slim Ruimtelijk Plannen",
+      "naam": "Business Werkgroep presentatie Slim Ruimtelijk Plannen 27 september 2023",
       "waarde": "Business Werkgroep presentatie Slim Ruimtelijk Plannen.pdf"
     },
      {
-      "naam": "Eerste Thematische Werkgroep presentatie Slim Ruimtelijk Plannen",
+      "naam": "Eerste Thematische Werkgroep presentatie Slim Ruimtelijk Plannen 25 oktober 2023",
       "waarde": "Eerste Thematische Werkgroep presentatie Slim Ruimtelijk Plannen.pdf"
+    },
+     {
+      "naam": "Tweede Thematische Werkgroep presentatie Slim Ruimtelijk Plannen 30 november 2023",
+      "waarde": "Presentatie thematische werkgroep 2 - 30 november 2023.pdf"
     }
   ],
   "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Slim Ruimtelijk Plannen",

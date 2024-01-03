@@ -1,0 +1,14 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren>
+    a skos:ConceptScheme ;
+    skos:prefLabel "conceptscheme ruimtelijke indicatoren" ;
+    skos:definition "Codelijst voor ruimtelijke indicatoren." .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Inwonersdichtheid> 
+    a skos:Concept ;
+    skos:definition "Verhouding van aantal wooneenheden op een terrein gedeeld door de totale oppervlakte van dat terrein." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Inwonersdichtheid" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+

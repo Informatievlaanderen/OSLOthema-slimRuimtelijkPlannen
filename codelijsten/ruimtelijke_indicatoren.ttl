@@ -5,10 +5,181 @@
     skos:prefLabel "conceptscheme ruimtelijke indicatoren" ;
     skos:definition "Codelijst voor ruimtelijke indicatoren." .
 
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Bebouwingsgraad> 
+    a skos:Concept ;
+    skos:definition "Verhouding van de bebouwde terreinoppervlakte van alle gebouwen in een terrein gedeeld door de totale oppervlakte van dat terrein." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Bebouwingsgraad (Ground space index (GSI))" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .    
+    
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/VloerTerreinIndex>
+    a skos:Concept ;
+    skos:definition "Verhouding van de brutovloeroppervlakte van alle gebouwen op een terrein gedeeld door de totale oppervlakte van dat terrein." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Vloer/Terrein index (Floor space index (FSI))" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/OpenSpaceRatio>
+    a skos:Concept ;
+    skos:definition "Verhouding tussen de som van alle onbebouwde oppervlakten van een terrein gedeeld door de Floor space index." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Open space ratio (OSR)" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Woondichtheid>
+    a skos:Concept ;
+    skos:definition "Verhouding van aantal wooneenheden op een terrein gedeeld door de totale oppervlakte van dat terrein." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Woondichtheid" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
 <https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Inwonersdichtheid> 
     a skos:Concept ;
     skos:definition "Verhouding van aantal wooneenheden op een terrein gedeeld door de totale oppervlakte van dat terrein." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
     skos:prefLabel "Inwonersdichtheid" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Huishoudensdichtheid> 
+    a skos:Concept ;
+    skos:definition "Verhouding van aantal huishoudens op een terrein gedeeld door de totale oppervlakte van dat terrein." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Huishoudensdichtheid" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Perceeldichtheid> 
+    a skos:Concept ;
+    skos:definition "Verhouding van het aantal percelen op een terrein gedeeld door de totale oppervlakte van dat terrein." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Perceeldichtheid" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Adresdichtheid> 
+    a skos:Concept ;
+    skos:definition "Verhouding van het aantal adressen op een terrein gedeeld door de totale oppervlakte van dat terrein." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Adresdichtheid" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Woningtypemix> 
+    a skos:Concept ;
+    skos:definition "Verhouding van de het aantal gesloten woningen ten opzichte van de totale woningen in een gebied." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Woningtypemix" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/GemiddeldAantalBouwlagen> 
+    a skos:Concept ;
+    skos:definition "Gemiddeld aantal bouwlagen van de gebouwen in een bepaald gebied." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "GemiddeldAantalBouwlagen" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/GemiddeldeBouwhoogte> 
+    a skos:Concept ;
+    skos:definition "Gemiddelde hoogte van de gebouwen binnen een bepaald gebied." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "GemiddeldeBouwhoogte" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/GemiddeldBouwvolume> 
+    a skos:Concept ;
+    skos:definition "Gemiddeld volume van de gebouwen binnen een bepaald gebied." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "GemiddeldBouwvolume" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Functiemix> 
+    a skos:Concept ;
+    skos:definition "Verhouding  van de bruto vloeroppervlaktes voor de verschillende functies ten opzichte van de totale vloeroppervlakte in een gebied (entropie-mix)." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Functiemix" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/FunctieverwevingWonen> 
+    a skos:Concept ;
+    skos:definition "Verhouding van de bruto vloeroppervlaktes voor wonen ten opzichte van de totale vloeroppervlakte in een gebied." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Functieverweving - wonen" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Doorwaadbaarheid> 
+    a skos:Concept ;
+    skos:definition "De doorwaadbaarheid van een gebied geeft aan of het gebied kan worden doorstoken in functie van langzaam verkeer (de geschiktheid van ruimte om doorheen te lopen)." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Doorwaadbaarheid" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Ruimtebeslag> 
+    a skos:Concept ;
+    skos:definition "De oppervlakte van het ruimtebeslag die bestaat uit de ruimte, ingenomen door onze nederzettingen, dus door huisvesting, industriële en commerciële  doeleinden, transportinfrastructuur, recreatieve doeleinden, serres etc. Parken en tuinen maken hier ook deel van uit." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Ruimtebeslag" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/RuimtebeslagRisico> 
+    a skos:Concept ;
+    skos:definition "De oppervlakte aan gronden met harde bestemming, zonder ruimtebeslag en zonder overwegend wateroppervlak." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Ruimtebeslag-risico" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/PubliekeEigendommen> 
+    a skos:Concept ;
+    skos:definition "Verhouding van de oppervlakte van percelen in publiek eigendom binnen een gebied gedeeld door de totale oppervlakte van dat gebied." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Publieke eigendommen" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Boomkruindekking> 
+    a skos:Concept ;
+    skos:definition "Verhouding van de oppervlakte van de boomkruin binnen een gebied gedeeld door de totale oppervlakte van dat gebied." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Boomkruindekking" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Knooppuntwaarde> 
+    a skos:Concept ;
+    skos:definition "Bepaalt de mate waarin een plek is geïntegreerd in het systeem van collectief vervoer voor personen." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Knooppuntwaarde" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Voorzieningenniveau> 
+    a skos:Concept ;
+    skos:definition "Bepaalt de mate waarin een plek goed voorzien is van basisvoorzieningen, regionale voorzieningen en metropolitane voorzieningen." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Voorzieningenniveau" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/MOBI-score> 
+    a skos:Concept ;
+    skos:definition "De Mobiscore kijkt hoe dicht een woonplaats ligt bij voorzieningen zoals winkels, scholen, stations, bus- en tramhaltes. En berekent de milieu-impact van de verplaatsingen die de bewoner naar verwachting zal moeten doen." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "MOBI-score" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/RuimtelijkKwetsbareGebieden> 
+    a skos:Concept ;
+    skos:definition "a) Aangewezen op plannen van aanleg: agrarische gebieden met ecologisch belang, agrarische gebieden met ecologische waarde, bosgebieden, brongebieden, groengebieden, natuurgebieden, natuurgebieden met wetenschappelijke waarde, natuurontwikkelingsgebieden, natuurreservaten, overstromingsgebieden, parkgebieden, valleigebieden,
+b) Aangewezen op ruimtelijke uitvoeringsplannen, en sorterend onder één van volgende categorieën of subcategorieën van gebiedsaanduiding: bos, parkgebied, reservaat en natuur,
+c) het Vlaams Ecologisch Netwerk, vermeld in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu,
+d) de beschermde duingebieden en de voor het duingebied belangrijke landbouwgebieden, aangeduid krachtens artikel 52, § 1, van de wet van 12 juli 1973 op het natuurbehoud;" ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Ruimtelijk kwetsbare gebieden" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/GemiddeldeBouwjaar> 
+    a skos:Concept ;
+    skos:definition "Gemiddelde bouwjaar van de gebouwen binnen een bepaald gebied." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Gemiddelde bouwjaar" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/GemiddeldeLeeftijdInwoners> 
+    a skos:Concept ;
+    skos:definition "Gemiddelde leeftijd van inwoners binnen een bepaald gebied." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Gemiddelde leeftijd van inwoners" ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
 

@@ -161,10 +161,7 @@
 
 <https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/RuimtelijkKwetsbareGebieden> 
     a skos:Concept ;
-    skos:definition "a) Aangewezen op plannen van aanleg: agrarische gebieden met ecologisch belang, agrarische gebieden met ecologische waarde, bosgebieden, brongebieden, groengebieden, natuurgebieden, natuurgebieden met wetenschappelijke waarde, natuurontwikkelingsgebieden, natuurreservaten, overstromingsgebieden, parkgebieden, valleigebieden,
-b) Aangewezen op ruimtelijke uitvoeringsplannen, en sorterend onder één van volgende categorieën of subcategorieën van gebiedsaanduiding: bos, parkgebied, reservaat en natuur,
-c) het Vlaams Ecologisch Netwerk, vermeld in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu,
-d) de beschermde duingebieden en de voor het duingebied belangrijke landbouwgebieden, aangeduid krachtens artikel 52, § 1, van de wet van 12 juli 1973 op het natuurbehoud;" ;
+    skos:definition "A. Aangewezen op plannen van aanleg: agrarische gebieden met ecologisch belang, agrarische gebieden met ecologische waarde, bosgebieden, brongebieden, groengebieden, natuurgebieden, natuurgebieden met wetenschappelijke waarde, natuurontwikkelingsgebieden, natuurreservaten, overstromingsgebieden, parkgebieden, valleigebieden, B. Aangewezen op ruimtelijke uitvoeringsplannen, en sorterend onder één van volgende categorieën of subcategorieën van gebiedsaanduiding: bos, parkgebied, reservaat en natuur, C. het Vlaams Ecologisch Netwerk, vermeld in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, D. de beschermde duingebieden en de voor het duingebied belangrijke landbouwgebieden, aangeduid krachtens artikel 52, § 1, van de wet van 12 juli 1973 op het natuurbehoud;" ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
     skos:prefLabel "Ruimtelijk kwetsbare gebieden" ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .

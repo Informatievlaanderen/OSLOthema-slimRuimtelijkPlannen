@@ -1,13 +1,13 @@
 [
     {
-        "name": "OSLO-Slim-Ruimtelijk-Plannen-AP",
+        "name": "slim-ruimtelijk-plannen-ap",
         "type": "ap",
         "eap": "OSLO-Slim-Ruimtelijk-Plannen.eap",
         "diagram": "OSLO-Slim-Ruimtelijk-Plannen-AP",
-        "template": "OSLO-Slim-Ruimtelijk-Plannen-AP.j2",
+        "template": "slim-ruimtelijk-plannen-ap.j2",
         "title": "Slim Ruimtelijk Plannen - Applicatieprofiel",
         "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
-        "publication-date": "2024-01-16",
+        "publication-date": "2024-01-22",
         "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
         "contributors-file": "stakeholders.csv",
         "contributors-column": "MijnKolom",

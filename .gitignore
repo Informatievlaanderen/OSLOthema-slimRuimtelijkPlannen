@@ -1,3 +1,6 @@
 .idea
 *.ldb
 *.xlsm
+report_OSLO-Slim-Ruimtelijk-Plannen-AP.csv
+report_OSLO-Slim-Ruimtelijk-Plannen-AP.html
+target/

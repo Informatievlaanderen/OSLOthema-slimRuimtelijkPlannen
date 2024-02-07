@@ -35,7 +35,7 @@
 
 <https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Inwonersdichtheid> 
     a skos:Concept ;
-    skos:definition "Verhouding van aantal wooneenheden op een terrein gedeeld door de totale oppervlakte van dat terrein." ;
+    skos:definition "Verhouding van aantal inwoners op een terrein gedeeld door de totale oppervlakte van dat terrein." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
     skos:prefLabel "Inwonersdichtheid" ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
@@ -180,3 +180,16 @@
     skos:prefLabel "Gemiddelde leeftijd van inwoners" ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
 
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Bodemafdekking> 
+    a skos:Concept ;
+    skos:definition "Bodemafdekking is een vorm van verharding die wordt uitgedrukt als de oppervlakte waarvan de aard en/of toestand van het bodemoppervlak gewijzigd is door het aanbrengen van artiﬁciële, (semi-)ondoorlaatbare materialen waardoor essentiële ecosysteemfuncties van de bodem verloren gaan. In de praktijk gaat het vooral om gebouwen, wegen en parkeerterreinen." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Bodemafdekking" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/Waterondoorlaatbaarheid> 
+    a skos:Concept ;
+    skos:definition "Waterondoorlaatbaarheid is een vorm van verharding die wordt uitgedrukt als de oppervlakte waar het bodemoppervlak zijn infiltreerbaarheid voor water is verloren omwille van het aanbrengen van een artificieel waterondoorlatend oppervlak en dus waar water afstroomt via dit oppervlak." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Waterondoorlaatbaarheid" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .

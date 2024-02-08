@@ -165,3 +165,17 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
     skos:prefLabel "Stadsdistrict" ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+
+<https://data.vlaanderen.be/id/concept/Schaalniveaus/Gebied> 
+    a skos:Concept ;
+    skos:definition "Afgebakende ruimte." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
+    skos:prefLabel "Gebied" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+
+<https://data.vlaanderen.be/id/concept/Schaalniveaus/Bestemmingscategorie> 
+    a skos:Concept ;
+    skos:definition "Een bestemming is een door de overheid voorgenomen landgebruik op een grond. Een bestemming is voorzien in een goedgekeurd ruimtelijk verordenend plan (bijvoorbeeld gewestplan, ruimtelijk uitvoeringsplan, ...) via stedenbouwkundige voorschriften. Bestemmingscategorieën groeperen bestemmingen naargelang het doel." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
+    skos:prefLabel "Bestemmingscategorie" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .

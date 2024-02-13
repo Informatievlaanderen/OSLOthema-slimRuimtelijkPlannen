@@ -1,6 +1,6 @@
 Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom
-Vincent;Feremans;;vincent.feremans@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;A
-Louise; Ysewijn;;louise.ysewijn@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;A
+Vincent;Feremans;;vincent.feremans@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Louise; Ysewijn;;louise.ysewijn@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
 Ziggy;Vanlishout;Digitaal Vlaanderen;;https://www.vlaanderen.be/digitaal-vlaanderen;E
 Veerle;Beyaert;Digitaal Vlaanderen;;https://www.vlaanderen.be/digitaal-vlaanderen;E
 Liesbeth;Van der Haegen;Digitaal Vlaanderen;;https://www.vlaanderen.be/digitaal-vlaanderen;E
@@ -8,14 +8,14 @@ Raf;Buyle;Digitaal Vlaanderen;;https://www.vlaanderen.be/digitaal-vlaanderen;E
 Evelien;Vlassenroot;Digitaal Vlaanderen;;https://www.vlaanderen.be/digitaal-vlaanderen;E
 Laurens;Vercauteren;Digitaal Vlaanderen;;https://www.vlaanderen.be/digitaal-vlaanderen;E
 Geert;Thijs;Digitaal Vlaanderen;;https://www.vlaanderen.be/digitaal-vlaanderen;E
-Jan;Godderis;Stad Gent;;https://stad.gent/nl;C
-Dieter;Nieuwborg;Stad Gent;;https://stad.gent/nl;C
-Kim;Paduwat;Stad Gent;;https://stad.gent/nl;C
+Jan;Godderis;Stad Gent;;https://stad.gent/nl;A
+Dieter;Nieuwborg;Stad Gent;;https://stad.gent/nl;A
+Kim;Paduwat;Stad Gent;;https://stad.gent/nl;A
 An;Bernaert;District09;;https://district09.gent/nl;C
-Lucas;Verbanck;Intercommunale Leiedal;;https://www.leiedal.be/;C
-Bram;Tack;Intercommunale Leiedal;;https://www.leiedal.be/;C
-Inge;Wydhooge;Intercommunale Leiedal;;https://www.leiedal.be/;C
-Thomas;Goemaere;Intercommunale Leiedal;;https://www.leiedal.be/;C
+Lucas;Verbanck;Intercommunale Leiedal;;https://www.leiedal.be/;A
+Bram;Tack;Intercommunale Leiedal;;https://www.leiedal.be/;A
+Inge;Wydhooge;Intercommunale Leiedal;;https://www.leiedal.be/;A
+Thomas;Goemaere;Intercommunale Leiedal;;https://www.leiedal.be/;A
 David;Lingier;Intercommunale Leiedal;;https://www.leiedal.be/;C
 Virge;Smets;Stad Antwerpen;;https://www.antwerpen.be/;C
 Gert;Van Oost;Stad Antwerpen;;https://www.antwerpen.be/;C

@@ -4,7 +4,7 @@
         "type": "voc",
         "eap": "OSLO-Slim-Ruimtelijk-Plannen.eap",
         "diagram": "OSLO-Slim-Ruimtelijk-Plannen-AP",
-        "template": "slim-ruimtelijk-plannen-ap.j2",
+        "template": "slim-ruimtelijk-plannen-voc.j2",
         "title": "Slim Ruimtelijk Plannen - Vocabularium",
         "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "publication-date": "2024-01-22",

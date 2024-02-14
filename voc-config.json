@@ -1,15 +1,15 @@
 {
-  "naam": "Vocabularium en applicatieprofiel Slim Ruimtelijk Plannen",
+  "naam": "Vocabularium Slim Ruimtelijk Plannen",
   "rapport": "",
   "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
   "publicatiedatum": "2023-10-23",
   "type_toepassing": "",
-  "categorie": "Vocabularium en applicatieprofiel",
+  "categorie": "Vocabularium",
   "beschrijving": "slim-ruimtelijk-plannen-description.md",
   "specificatiedocument": [
     {
-      "naam": "Slim Ruimtelijk Plannen vocabularium en applicatieprofiel",
+      "naam": "Slim Ruimtelijk Plannen applicatieprofiel",
       "waarde": "https://data.test-vlaanderen.be/doc/applicatieprofiel/slim-ruimtelijk-plannen/ontwerpstandaard/2023-12-12"
     }
   ],

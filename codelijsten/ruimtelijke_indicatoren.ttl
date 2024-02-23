@@ -193,3 +193,38 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
     skos:prefLabel "Waterondoorlaatbaarheid" ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/HardeBestemmingen> 
+    a skos:Concept ;
+    skos:definition "Groepering van  bestemmingen bedoeld om door ruimtebeslag gedomineerd te worden. Concreet gaat het (momenteel) om de bestemmingen voor wonen, recreatie, industrie (binnen en buiten de poorten), bepaalde bestemmingen uit categorie 'overig groen' en bepaalde bestemmingen uit categorie 'overige'." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Harde bestemmingen" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/ZachteBestemmingen> 
+    a skos:Concept ;
+    skos:definition "Groepering van Bestemmingen bedoeld om niet door ruimtebeslag gedomineerd te worden. Concreet gaat het (momenteel) om  de bestemmingen voor landbouw, natuur en bos, bepaalde bestemmingen uit categorie 'overig groen' en bepaalde bestemmingen uit categorie 'overige'." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Zachte bestemmingen" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/OverstromingsgevoeligGebiedFluviaal> 
+    a skos:Concept ;
+    skos:definition "Verhouding van de oppervlakte van overstromingsgevoelig gebied als gevolg van grotere rivieren die buiten de oevers treden ten opzichte van de totale oppervlakte van een gebied. Voor elke bron van overstromingen zijn er verschillende overstromingskansen (terugkeerperiode)." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Overstromingsgevoelig gebied fluviaal" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/OverstromingsgevoeligGebiedPluviaal> 
+    a skos:Concept ;
+    skos:definition "Verhouding van de oppervlakte van overstromingsgevoelig gebied als gevolg van lokale intense neerslag ten opzichte van de totale oppervlakte van een gebied. Voor elke bron van overstromingen zijn er verschillende overstromingskansen (terugkeerperiode)." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Overstromingsgevoelig gebied pluviaal" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .
+
+<https://data.vlaanderen.be/id/concept/RuimtelijkeIndicatoren/OverstromingsgevoeligGebiedVanuitZee> 
+    a skos:Concept ;
+    skos:definition "Verhouding van de oppervlakte van overstromingsgevoelig gebied als gevolg van stormopzet op zee ten opzichte van de totale oppervlakte van een gebied. Voor elke bron van overstromingen zijn er verschillende overstromingskansen (terugkeerperiode)." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> ;
+    skos:prefLabel "Overstromingsgevoelig gebied vanuit zee" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/RuimtelijkeIndicatoren> .

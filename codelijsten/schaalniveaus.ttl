@@ -209,7 +209,6 @@
     skos:definition "Het stedelijk gebied is het gebied waar intense ruimtelijke, culturele en socio-economische samenhang en verweving bestaat tussen verschillende menselijke activiteiten (wonen, diensten, werken, ...), waar dichte bebouwing overheerst en waar het wenselijk is ontwikkelingen te stimuleren en te concentreren. Stedelijk gebied is aldus een beleidsmatig begrip." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
     skos:prefLabel "Stedelijk gebied" ;
-    skos:broader <https://data.vlaanderen.be/id/concept/Schaalniveaus/ThematischeGebiedsindeling> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Buitengebied> 
@@ -217,7 +216,6 @@
     skos:definition "Het buitengebied is - op het niveau van Vlaanderen bekeken - het gebied waarin de open (onbebouwde) ruimte overweegt en waar een buitengebiedbeleid wordt gevoerd. Elementen van bebouwing en infrastructuur die in functionele samenhang zijn met de niet-bebouwde ruimte maken er onderdeel van uit en kunnen plaatselijk overwegen. Buitengebied is aldus een beleidsmatig begrip." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
     skos:prefLabel "Buitengebied" ;
-    skos:broader <https://data.vlaanderen.be/id/concept/Schaalniveaus/ThematischeGebiedsindeling> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Bestemmingscategorie> 
@@ -225,7 +223,6 @@
     skos:definition "Een bestemming is een door de overheid voorgenomen landgebruik op een grond. Een bestemming is voorzien in een goedgekeurd plan (bijvoorbeeld gewestplan, ruimtelijk uitvoeringsplan) via stedenbouwkundige voorschriften. Bestemmingscategorieën groeperen gelijkaardige bestemmingen. De ruimteboekhouding monitort de vastgestelde bestemmingen. De ruimtebegroting geeft kwantitatief inzicht in toekomstige wijzigingen in bestemming. " ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
     skos:prefLabel "Bestemmingscategorie" ;
-    skos:broader <https://data.vlaanderen.be/id/concept/Schaalniveaus/ThematischeGebiedsindeling> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/HardeBestemmingen> 
@@ -233,7 +230,6 @@
     skos:definition "Groepering van  bestemmingen bedoeld om door ruimtebeslag gedomineerd te worden. Concreet gaat het (momenteel) om de bestemmingen voor wonen, recreatie, industrie (binnen en buiten de poorten), bepaalde bestemmingen uit categorie 'overig groen' en bepaalde bestemmingen uit categorie 'overige'." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
     skos:prefLabel "Harde bestemmingen" ;
-    skos:broader <https://data.vlaanderen.be/id/concept/Schaalniveaus/ThematischeGebiedsindeling> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/ZachteBestemmingen> 
@@ -241,7 +237,6 @@
     skos:definition "Groepering van Bestemmingen bedoeld om niet door ruimtebeslag gedomineerd te worden. Concreet gaat het (momenteel) om  de bestemmingen voor landbouw, natuur en bos, bepaalde bestemmingen uit categorie 'overig groen' en bepaalde bestemmingen uit categorie 'overige'." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
     skos:prefLabel "Zachte bestemmingen" ;
-    skos:broader <https://data.vlaanderen.be/id/concept/Schaalniveaus/ThematischeGebiedsindeling> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Ruimtebeslag> 
@@ -249,5 +244,4 @@
     skos:definition "De oppervlakte van het ruimtebeslag die bestaat uit de ruimte, ingenomen door onze nederzettingen, dus door huisvesting, industriële en commerciële  doeleinden, transportinfrastructuur, recreatieve doeleinden, serres etc. Parken en tuinen maken hier ook deel van uit." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
     skos:prefLabel "Ruimtebeslag" ;
-    skos:broader <https://data.vlaanderen.be/id/concept/Schaalniveaus/ThematischeGebiedsindeling> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .

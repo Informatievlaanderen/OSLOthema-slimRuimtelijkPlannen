@@ -28,36 +28,31 @@
     a skos:Concept ;
     skos:definition "In België staan naast de federale staat en de gemeenschappen, de gewesten. De drie gewesten zijn bevoegd voor de grondgebonden materies. Het Vlaams Gewest is opgedeeld in vijf provincies." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Gewest" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Gewest".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Provincie> 
     a skos:Concept ;
     skos:definition "Provincies vormen een administratieve indeling van het Vlaams Gewest. De provincies vormen het bestuurlijke niveau tussen de gemeenten en arrondissementen enerzijds en het Vlaams Gewest anderzijds." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Provincie" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Provincie".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Arrondissement> 
     a skos:Concept ;
     skos:definition "Bestuurlijke arrondissementen zijn een administratieve groepering van een aantal gemeenten binnen een provincie. " ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Arrondissement" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Arrondissement".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Gemeente> 
     a skos:Concept ;
     skos:definition "Administratieve gemeente." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Gemeente" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Gemeente".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Deelgemeente> 
     a skos:Concept ;
     skos:definition "De voormalige gemeenten die terug gaan tot de toestand van de gemeenten in 1961. De deelgemeente is vaak, maar niet altijd af te leiden uit de code van de statistische sector." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Deelgemeente" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Deelgemeente".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/IntergemeentelijkeGebiedsindeling> 
     a skos:Concept ;
@@ -71,8 +66,7 @@
     a skos:Concept ;
     skos:definition "Om tot een grotere coherentie te komen in de intermediaire structuren en om de regionale samenwerking te stimuleren, bakende de Vlaamse Regering referentieregio’s af. De referentieregio’s worden hét afstemmingsniveau voor intergemeentelijke en bovenlokale samenwerking in Vlaanderen." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Referentieregio" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Referentieregio".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/StatistischeGebiedsindeling> 
     a skos:Concept ;
@@ -87,15 +81,13 @@
     a skos:Concept ;
     skos:definition "Een wijk is een clustering van statistische sectoren binnen een gemeente." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Wijk" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Wijk".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/StatistischeSector> 
     a skos:Concept ;
     skos:definition "De territoriale basiseenheid die ontstaan is uit een opdeling van de gemeenten en de vroegere gemeenten door Statbel (Algemene Directie Statistiek - Statistics Belgium) voor de verspreiding van statistieken op een gedetailleerder niveau dan het gemeentelijk niveau." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Statistische sector" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Statistische sector".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/UniformeGebiedsindeling> 
     a skos:Concept ;
@@ -110,15 +102,13 @@
     a skos:Concept ;
     skos:definition "Dit is een uniform grid van cellen. Elke cel is een polygoon met als vorm een vierkant. Een vereiste is dat ze dezelfde oppervlakte eenheid per raster hebben." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Raster" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Raster".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Hexagoon> 
     a skos:Concept ;
     skos:definition "Dit is een uniform grid van cellen. Elke cel is een polygoon met als vorm een hexagoon. Een vereiste is dat ze dezelfde oppervlakte eenheid per hexagoon hebben." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Hexagoon" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Hexagoon".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/StedenbouwkundigeGebiedsindeling> 
     a skos:Concept ;
@@ -128,68 +118,67 @@
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/BrutoPerceelblok>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Buurt>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Gebouw>;
-    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/NettoPerceelblok>;
-    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/NettoPerceelblokBebouwd>;
-    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/NettoPerceelblokOnbebouwd>;
+    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/OpenRuimte>;
+    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Perceelblok>;
+    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/PerceelblokdeelBebouwd>;
+    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/PerceelblokdeelOnbebouwd>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Perceel>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Wegbaan>;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Buurt> 
     a skos:Concept ;
-    skos:definition "Samenvoeging van bruto bouwblokken." ;
+    skos:definition "Verzameling van bruto perceelblokken." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Buurt" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Buurt".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/BrutoPerceelblok> 
     a skos:Concept ;
-    skos:definition "Principe van NEN 9300 samengevat: De oppervlakte van het (netto) bouwblok + de oppervlakte nodig voor de ontsluiting van het bouwblok + overige onbebouwde terreinen zoals water (kanaal, sloot, meer enz.) groen (groenstrook, park enz.) die horen bij het bouwblok." ;
+    skos:definition "Een bruto perceelblok bestaat uit een netto perceelblok met een deel, meestal de helft, van de omringde infrastructuur." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Bruto perceelblok" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Bruto perceelblok".
 
-<https://data.vlaanderen.be/id/concept/Schaalniveaus/NettoPerceelblok> 
+<https://data.vlaanderen.be/id/concept/Schaalniveaus/Perceelblok> 
     a skos:Concept ;
-    skos:definition "Een perceelblokblok is een verzameling van aan elkaar grenzende percelen, omringd door infrastructuur." ;
+    skos:definition "Een perceelblok is een verzameling van aan elkaar grenzende percelen, omringd door infrastructuur. Dit is de netto. In stedenbouwkundige context ook gekend als bouwblok." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Netto perceelblok" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Perceelblok".
 
-<https://data.vlaanderen.be/id/concept/Schaalniveaus/NettoPerceelblokBebouwd> 
+<https://data.vlaanderen.be/id/concept/Schaalniveaus/PerceelblokdeelBebouwd> 
     a skos:Concept ;
-    skos:definition "Bundeling van bebouwde percelen binnen een bouwblok." ;
+    skos:definition "Verzameling van aan elkaar grenzende bebouwde percelen binnen een perceelblok. Er kunnen meerdere bebouwde delen binnen één perceelblok liggen." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Netto perceelblok (bebouwd)" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Bebouwd deel van een Perceelblok".
 
-<https://data.vlaanderen.be/id/concept/Schaalniveaus/NettoPerceelblokOnbebouwd> 
+<https://data.vlaanderen.be/id/concept/Schaalniveaus/PerceelblokdeelOnbebouwd> 
     a skos:Concept ;
-    skos:definition "Bundeling van onbebouwde percelen binnen een bouwblok." ;
+    skos:definition "Verzameling van aan elkaar grenzende onbebouwde percelen binnen een perceelblok. Er kunnen meerdere onbebouwde delen binnen één perceelblok liggen." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Netto perceelblok (onbebouwd)" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Onbebouwd deel van een Perceelblok".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Wegbaan> 
     a skos:Concept ;
-    skos:definition "Wegbaan uit GRB: De wegbaan (Wbn) is de voorstelling van de wegcorridor in het GRB. De wegbaan wordt overlangs opgedeeld in verschillende arbitrair afgebakende wegbaanelementen. Er zijn twee types wegbaanelementen: een kruispuntzone komt overeen met een kruispunt; een wegsegment komt overeen met een wegvak." ;
+    skos:definition "De wegbaan is de voorstelling van de wegcorridor. De wegbaan wordt overlangs opgedeeld in verschillende arbitrair afgebakende wegbaanelementen. Er zijn twee types wegbaanelementen: een kruispuntzone komt overeen met een kruispunt; een wegsegment komt overeen met een wegvak." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Wegbaan" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Wegbaan".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Perceel> 
     a skos:Concept ;
-    skos:definition "Administratief perceel (ADP) uit GRB: Een administratief perceel (Adp) is een grafische voorstelling van de vermoedelijke ligging van het kadastraal perceel, waarbij de perceelsgrenzen werden geïnterpreteerd rekening houdend met de terreinsituatie." ;
+    skos:definition "Deel van het grondgebied officieel vastgesteld met een kadastraal of administratief doel." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Perceel" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Perceel".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Gebouw> 
     a skos:Concept ;
-    skos:definition "Definitie Gebouw aan de grond (Gbg) uit GRB: Een gebouw aan de grond (Gbg) is een duurzaam bouwwerk, vast met het aardoppervlak verbonden, dat een voor mensen toegankelijke ruimte omsluit. Een gelijkvloerse toegang voor ondergrondse of hangende constructies wordt eveneens als gebouw aan de grond beschouwd. Bepaalde duurzame bouwsels die aan bovenstaande definitie beantwoorden, worden echter in andere GRB-entiteiten opgenomen en niet hier. Bijvoorbeeld koeltorens, watertorens, e.d. worden opgenomen als kunstwerk (entiteit Knw)." ;
+    skos:definition "Een gesloten en/of overdekt, bovengronds of ondergronds bouwwerk, dat dient of bestemd is, ofwel om mensen, dieren en voorwerpen onder te brengen, ofwel om economische goederen te vervaardigen of diensten te verstrekken. Een gebouw verwijst naar gelijk welke structuur die op blijvende wijze op een terrein opgetrokken of gebouwd wordt." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Gebouw" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Gebouw".
+
+<https://data.vlaanderen.be/id/concept/Schaalniveaus/OpenRuimte> 
+    a skos:Concept ;
+    skos:definition "Gebieden die buiten de kernen liggen en niet door ruimtebeslag ingenomen worden. Omdat sommige delen van het ruimtebeslag zoals golfterreinen wel worden meegenomen als open ruimte is dit niet complementair aan ruimtebeslag, en ook niet identiek aan ‘nietverhard’, ‘zachte bestemmingen’ of buitengebied." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
+    skos:prefLabel "Open ruimte".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/ThematischeGebiedsindeling> 
     a skos:Concept ;
@@ -208,40 +197,34 @@
     a skos:Concept ;
     skos:definition "Het stedelijk gebied is het gebied waar intense ruimtelijke, culturele en socio-economische samenhang en verweving bestaat tussen verschillende menselijke activiteiten (wonen, diensten, werken, ...), waar dichte bebouwing overheerst en waar het wenselijk is ontwikkelingen te stimuleren en te concentreren. Stedelijk gebied is aldus een beleidsmatig begrip." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Stedelijk gebied" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Stedelijk gebied".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Buitengebied> 
     a skos:Concept ;
     skos:definition "Het buitengebied is - op het niveau van Vlaanderen bekeken - het gebied waarin de open (onbebouwde) ruimte overweegt en waar een buitengebiedbeleid wordt gevoerd. Elementen van bebouwing en infrastructuur die in functionele samenhang zijn met de niet-bebouwde ruimte maken er onderdeel van uit en kunnen plaatselijk overwegen. Buitengebied is aldus een beleidsmatig begrip." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Buitengebied" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Buitengebied".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Bestemmingscategorie> 
     a skos:Concept ;
     skos:definition "Een bestemming is een door de overheid voorgenomen landgebruik op een grond. Een bestemming is voorzien in een goedgekeurd plan (bijvoorbeeld gewestplan, ruimtelijk uitvoeringsplan) via stedenbouwkundige voorschriften. Bestemmingscategorieën groeperen gelijkaardige bestemmingen. De ruimteboekhouding monitort de vastgestelde bestemmingen. De ruimtebegroting geeft kwantitatief inzicht in toekomstige wijzigingen in bestemming. " ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Bestemmingscategorie" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Bestemmingscategorie".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/HardeBestemmingen> 
     a skos:Concept ;
     skos:definition "Groepering van  bestemmingen bedoeld om door ruimtebeslag gedomineerd te worden. Concreet gaat het (momenteel) om de bestemmingen voor wonen, recreatie, industrie (binnen en buiten de poorten), bepaalde bestemmingen uit categorie 'overig groen' en bepaalde bestemmingen uit categorie 'overige'." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Harde bestemmingen" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Harde bestemmingen".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/ZachteBestemmingen> 
     a skos:Concept ;
     skos:definition "Groepering van Bestemmingen bedoeld om niet door ruimtebeslag gedomineerd te worden. Concreet gaat het (momenteel) om  de bestemmingen voor landbouw, natuur en bos, bepaalde bestemmingen uit categorie 'overig groen' en bepaalde bestemmingen uit categorie 'overige'." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Zachte bestemmingen" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Zachte bestemmingen".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Ruimtebeslag> 
     a skos:Concept ;
     skos:definition "De oppervlakte van het ruimtebeslag die bestaat uit de ruimte, ingenomen door onze nederzettingen, dus door huisvesting, industriële en commerciële  doeleinden, transportinfrastructuur, recreatieve doeleinden, serres etc. Parken en tuinen maken hier ook deel van uit." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Ruimtebeslag" ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
+    skos:prefLabel "Ruimtebeslag".

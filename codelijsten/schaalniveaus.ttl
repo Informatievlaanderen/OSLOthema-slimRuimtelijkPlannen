@@ -118,7 +118,6 @@
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/BrutoPerceelblok>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Buurt>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Gebouw>;
-    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/OpenRuimte>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Perceelblok>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/PerceelblokdeelBebouwd>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/PerceelblokdeelOnbebouwd>;
@@ -174,12 +173,6 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
     skos:prefLabel "Gebouw".
 
-<https://data.vlaanderen.be/id/concept/Schaalniveaus/OpenRuimte> 
-    a skos:Concept ;
-    skos:definition "Gebieden die buiten de kernen liggen en niet door ruimtebeslag ingenomen worden. Omdat sommige delen van het ruimtebeslag zoals golfterreinen wel worden meegenomen als open ruimte is dit niet complementair aan ruimtebeslag, en ook niet identiek aan ‘nietverhard’, ‘zachte bestemmingen’ of buitengebied." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Open ruimte".
-
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/ThematischeGebiedsindeling> 
     a skos:Concept ;
     skos:definition " Een indeling van gebieden op basis van specifieke thema's, zoals bestemmingscategorieën." ;
@@ -189,6 +182,7 @@
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Buitengebied>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/HardeBestemmingen>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/ZachteBestemmingen>;
+    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/OpenRuimte>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Ruimtebeslag>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/StedelijkGebied>;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
@@ -222,6 +216,12 @@
     skos:definition "Groepering van Bestemmingen bedoeld om niet door ruimtebeslag gedomineerd te worden. Concreet gaat het (momenteel) om  de bestemmingen voor landbouw, natuur en bos, bepaalde bestemmingen uit categorie 'overig groen' en bepaalde bestemmingen uit categorie 'overige'." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
     skos:prefLabel "Zachte bestemmingen".
+
+<https://data.vlaanderen.be/id/concept/Schaalniveaus/OpenRuimte> 
+    a skos:Concept ;
+    skos:definition "Gebieden die buiten de kernen liggen en niet door ruimtebeslag ingenomen worden. Omdat sommige delen van het ruimtebeslag zoals golfterreinen wel worden meegenomen als open ruimte is dit niet complementair aan ruimtebeslag, en ook niet identiek aan ‘nietverhard’, ‘zachte bestemmingen’ of buitengebied." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
+    skos:prefLabel "Open ruimte".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Ruimtebeslag> 
     a skos:Concept ;

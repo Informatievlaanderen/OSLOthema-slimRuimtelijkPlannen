@@ -17,11 +17,11 @@
     skos:definition "Een afgebakende ruimte die in niet-overlappende delen ingedeeld kan worden en wordt gebruikt voor administratieve doeleinden." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
     skos:prefLabel "AdministratieveGebiedsindeling" ;
-    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Arrondissement>;
-    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Deelgemeente>;
-    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Gemeente>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Gewest>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Provincie>;
+    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Arrondissement>;
+    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Gemeente>;
+    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Deelgemeente>;    
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Gewest> 
@@ -115,13 +115,13 @@
     skos:definition " Een indeling van gebieden op basis van stedenbouwkundige principes, zoals buurten en perceelblokken." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
     skos:prefLabel "StedenbouwkundigeGebiedsindeling" ;
-    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/BrutoPerceelblok>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Buurt>;
-    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Gebouw>;
+    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/BrutoPerceelblok>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Perceelblok>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/PerceelblokdeelBebouwd>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/PerceelblokdeelOnbebouwd>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Perceel>;
+    skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Gebouw>;
     skos:narrower <https://data.vlaanderen.be/id/concept/Schaalniveaus/Wegbaan>;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> .
 
@@ -155,12 +155,6 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
     skos:prefLabel "Onbebouwd deel van een Perceelblok".
 
-<https://data.vlaanderen.be/id/concept/Schaalniveaus/Wegbaan> 
-    a skos:Concept ;
-    skos:definition "De wegbaan is de voorstelling van de wegcorridor. De wegbaan wordt overlangs opgedeeld in verschillende arbitrair afgebakende wegbaanelementen. Er zijn twee types wegbaanelementen: een kruispuntzone komt overeen met een kruispunt; een wegsegment komt overeen met een wegvak." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
-    skos:prefLabel "Wegbaan".
-
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/Perceel> 
     a skos:Concept ;
     skos:definition "Deel van het grondgebied officieel vastgesteld met een kadastraal of administratief doel." ;
@@ -172,6 +166,12 @@
     skos:definition "Een gesloten en/of overdekt, bovengronds of ondergronds bouwwerk, dat dient of bestemd is, ofwel om mensen, dieren en voorwerpen onder te brengen, ofwel om economische goederen te vervaardigen of diensten te verstrekken. Een gebouw verwijst naar gelijk welke structuur die op blijvende wijze op een terrein opgetrokken of gebouwd wordt." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
     skos:prefLabel "Gebouw".
+
+<https://data.vlaanderen.be/id/concept/Schaalniveaus/Wegbaan> 
+    a skos:Concept ;
+    skos:definition "De wegbaan is de voorstelling van de wegcorridor. De wegbaan wordt overlangs opgedeeld in verschillende arbitrair afgebakende wegbaanelementen. Er zijn twee types wegbaanelementen: een kruispuntzone komt overeen met een kruispunt; een wegsegment komt overeen met een wegvak." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Schaalniveaus> ;
+    skos:prefLabel "Wegbaan".
 
 <https://data.vlaanderen.be/id/concept/Schaalniveaus/ThematischeGebiedsindeling> 
     a skos:Concept ;

@@ -1,18 +1,18 @@
 [
-    {
-        "name": "ruimtelijke-indicatoren-voc",
-        "type": "voc",
-        "eap": "OSLO-Ruimtelijke-Indicatoren.eap",
-        "diagram": "OSLO-Ruimtelijke-Indicatoren-AP",
-        "template": "ruimtelijke-indicatoren-voc.j2",
-        "title": "Ruimtelijke Indicatoren - Vocabularium",
-        "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
-        "publication-date": "2024-01-22",
-        "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
-        "contributors-file": "stakeholders.csv",
-        "contributors-column": "MijnKolom",
-        "site": "site-skeleton/ruimtelijke-indicatoren-ap",
-        "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/issues",
-        "standaardregisterurl": "https://data.vlaanderen.be/standaarden/vocabularium/ruimtelijke-indicatoren/"
-    }
+  {
+    "name": "ruimtelijke-indicatoren",
+    "type": "voc",
+    "eap": "OSLO-Ruimtelijke-Indicatoren.eap",
+    "diagram": "OSLO-Ruimtelijke-Indicatoren-AP",
+    "template": "ruimtelijke-indicatoren-voc.j2",
+    "title": "Ruimtelijke Indicatoren - Vocabularium",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+    "publication-date": "2024-01-22",
+    "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "MijnKolom",
+    "site": "site-skeleton/ruimtelijke-indicatoren-ap",
+    "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/issues",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/vocabularium/ruimtelijke-indicatoren/"
+  }
 ]

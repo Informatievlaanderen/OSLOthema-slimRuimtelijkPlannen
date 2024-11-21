@@ -1,3 +1,7 @@
+2024-11-21
+- Delete package tags 'OSLO SensorenEnBemonstering' and 'OSLO Verkeersmetingen' for SSN/SOSA classes
+- Delete package tag 'OSLO SensorenEnBemonstering' for DublinCore classes
+
 2024-11-14
 - Delete package tag OSLO-SensorenEnBemonstering from Bemonsteringsprocedure:parameter
 - Delete package tag OSLO-SensorenEnBemonstering from Bemonsteringsprocedure:specificatie

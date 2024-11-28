@@ -1,3 +1,6 @@
+2024-11-28
+- Change BaseURI from https://data.vlaanderen.be/ns/RuimtelijkeIndicatoren# to https://data.vlaanderen.be/ns/ruimtelijke-indicatoren/# to fix link with voc
+
 2024-11-21
 - Delete package tags 'OSLO SensorenEnBemonstering' and 'OSLO Verkeersmetingen' for SSN/SOSA classes
 - Delete package tag 'OSLO SensorenEnBemonstering' for DublinCore classes
